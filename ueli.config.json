@@ -170,7 +170,7 @@
   },
   "hotkeyEverythingMode": "alt+f",
   "hotkeyEverythingModeCwd": "alt+shift+f",
-  "hotkeyOnlineMode": "",
+  "hotkeyOnlineMode": "alt+o",
   "hotkeyRunMode": "alt+space",
   "hotkeyRunModeCwd": "",
   "hotkeyWindowsMode": "alt+q",
